@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Palestine!");
+Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");
+Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");
+Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");Console.WriteLine("Hello, !");
